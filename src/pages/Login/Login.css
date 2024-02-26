@@ -1,0 +1,43 @@
+*{
+    color: #567281;
+}
+.block {
+    height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* align-items: stretch; */
+    height: 100vh;
+    padding-left: 15px;
+}
+
+.flex-item1 {
+    height: 100hv;
+    flex-grow: 4;
+    flex-basis: 160px;
+    background-image: url(../../assets/Images/download.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 25px;
+    height: 90%;
+    width: 80%;
+}
+
+.flex-item2 {
+    flex-grow: 6;
+    flex-basis: 200px;
+
+}
+
+.datafields {
+    margin: 40px;
+}
+
+.inputfields {
+    margin-top: 40px;
+}
+

@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Tech Conference 2024",
+      "category": "Technology",
+      "date": "20-4-2024",
+      "venue": "Delhi",
+      "description": "Join us for the latest trends in technology and innovation.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/09/20/13/52/board-453758_640.jpg",
+      "priceInRupees": 5000
+    },
+    {
+      "id": 2,
+      "title": "Fitness Workshop",
+      "category": "Health & Wellness",
+      "date": "21-4-2024",
+      "venue": "Delhi",
+      "description": "Get fit and healthy with our expert trainers. All fitness levels welcome!",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/10/22/17/25/stretching-498256_1280.jpg",
+      "priceInRupees": 1500
+    },
+    {
+      "id": 3,
+      "title": "Art Exhibition",
+      "category": "Art & Culture",
+      "date": "22-4-2024",
+      "venue": "Delhi",
+      "description": "Explore the world of art with our diverse collection of paintings and sculptures.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/27/16/23/woman-1283009_1280.jpg",
+      "priceInRupees": 200
+    },
+    {
+      "id": 4,
+      "title": "Tech Conference 2024",
+      "category": "Technology",
+      "date": "23-4-2024",
+      "venue": "Delhi",
+      "description": "Join us for the latest trends in technology and innovation.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/09/20/13/52/board-453758_640.jpg",
+      "priceInRupees": 5000
+    },
+    {
+      "id": 5,
+      "title": "Fitness Workshop",
+      "category": "Health & Wellness",
+      "date": "24-4-2024",
+      "venue": "Delhi",
+      "description": "Get fit and healthy with our expert trainers. All fitness levels welcome!",
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/10/22/17/25/stretching-498256_1280.jpg",
+      "priceInRupees": 1500
+    },
+    {
+      "id": 6,
+      "title": "Art Exhibition",
+      "category": "Art & Culture",
+      "date": "25-4-2024",
+      "venue": "Delhi",
+      "description": "Explore the world of art with our diverse collection of paintings and sculptures.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/27/16/23/woman-1283009_1280.jpg",
+      "priceInRupees": 200
+    },
+    {
+      "id": 7,
+      "title": "Science Symposium",
+      "category": "Science",
+      "date": "26-4-2024",
+      "venue": "Delhi",
+      "description": "Discover the latest advancements in science and research.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/11/19/21/11/knowledge-1052013_640.jpg",
+      "priceInRupees": 3000
+    },
+    {
+      "id": 8,
+      "title": "Cooking Masterclass",
+      "category": "Culinary",
+      "date": "27-4-2024",
+      "venue": "Delhi",
+      "description": "Learn the art of cooking from renowned chefs.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2013/02/14/14/13/kitchen-81644_1280.jpg",
+      "priceInRupees": 1200
+    },
+    {
+      "id": 9,
+      "title": "Music Concert",
+      "category": "Entertainment",
+      "date": "28-4-2024",
+      "venue": "Delhi",
+      "description": "Enjoy an evening of live music performances by talented artists.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/03/08/17/25/musician-664432_640.jpg",
+      "priceInRupees": 800
+    },
+    {
+      "id": 10,
+      "title": "Business Summit",
+      "category": "Business",
+      "date": "29-4-2024",
+      "venue": "Delhi",
+      "description": "Connect with industry leaders and explore business opportunities.",
+      "imageUrl": "https://cdn.pixabay.com/photo/2017/05/04/16/37/meeting-2284501_640.jpg",
+      "priceInRupees": 4000
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Manish",
+      "dob": "2024-01-16",
+      "email": "dhirendras2007@gmail.com",
+      "password": "asdasd",
+      "id": 1
+    },
+    {
+      "fullName": "Manish Singh",
+      "dob": "2024-01-21",
+      "email": "manishtalan19@gmail.com",
+      "password": "lolabc",
+      "id": 2
+    },
+    {
+      "fullName": "tarang",
+      "dob": "2001-07-20",
+      "email": "me@gmail.com",
+      "password": "iamblank",
+      "id": 3
+    }
+  ],
+  "bookevents": [
+    {
+      "email": "manishtalan19@gmail.com",
+      "title": "Tech Conference 2024",
+      "date": "23-4-2024",
+      "venue": "Delhi",
+      "tickets": 1,
+      "cost": 5000,
+      "id": 1
+    },
+    {
+      "email": "manishtalan19@gmail.com",
+      "title": "Business Summit",
+      "date": "29-4-2024",
+      "venue": "Delhi",
+      "tickets": 3,
+      "cost": 12000,
+      "id": 2
+    }
+  ]
+}
